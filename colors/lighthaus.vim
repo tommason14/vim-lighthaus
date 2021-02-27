@@ -484,7 +484,7 @@ call s:h("SignatureMarkText",   s:hl_orange,    "",   "")
     let g:terminal_color_0            = s:black.gui
     let g:terminal_color_1            = s:red.gui
     let g:terminal_color_2            = s:green.gui
-    let g:terminal_color_3            = s:yellow.gui
+    let g:terminal_color_3            = s:hl_yellow.gui
     let g:terminal_color_4            = s:blue.gui
     let g:terminal_color_5            = s:purple.gui
     let g:terminal_color_6            = s:cyan.gui
@@ -492,7 +492,7 @@ call s:h("SignatureMarkText",   s:hl_orange,    "",   "")
     let g:terminal_color_8            = s:black.gui
     let g:terminal_color_9            = s:red.gui
     let g:terminal_color_10           = s:green.gui
-    let g:terminal_color_11           = s:yellow.gui
+    let g:terminal_color_11           = s:hl_yellow.gui
     let g:terminal_color_12           = s:blue.gui
     let g:terminal_color_13           = s:purple.gui
     let g:terminal_color_14           = s:cyan.gui
